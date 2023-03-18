@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"346d0456c7bdc8a1c3ac9ad0408ed4b5","lockfileHash":"721f7ad4078b1071de41bbb4a7f746f6","guessedImports":["prompts","axios","recursive-readdir","chalk","terminal-image"],"guessedImportsHash":"78400069902452b11e2186195e5a5b9d"}}}
