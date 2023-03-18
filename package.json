@@ -1,0 +1,43 @@
+{
+  "name": "octoshell",
+  "version": "0.0.4",
+  "description": "Octoshell helps you automate GitHub tasks such as exploring, starring, and creating programmatically",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "automation",
+    "code",
+    "exploration",
+    "management",
+    "gist",
+    "starred",
+    "repository",
+    "programmatic",
+    "interaction",
+    "git",
+    "abdlmutii"
+  ],
+  "author": "abdlmutii <abdlmutii@outlook.com>",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.3.4",
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.2.6",
+    "octoshell": "^0.0.5",
+    "prompts": "^2.4.2",
+    "recursive-readdir": "^2.2.3",
+    "terminal-image": "^1.2.1"
+  },
+  "bin": {
+    "octo": "./octo.js",
+    "octoshell": "./octo.js",
+    "gitup": "./octo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdlmutii/octoshell"
+  }
+}
