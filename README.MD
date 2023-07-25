@@ -4,7 +4,7 @@ A command line interface to interact with GitHub using Node.js.
 > P.S: This GitHub repo is posted with octoshell. cool right?
 
 ## Installation
-To install OctoShell, use npm:
+To install OctoShell, you should use npm:
 ```sh
 npm i octoshell -g
 ```
